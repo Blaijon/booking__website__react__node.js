@@ -8,7 +8,7 @@
       "image":
         "https://booksync-jerga-prod.s3.amazonaws.com/uploads/rental/image/5/image.jpeg",
       "bedrooms": 4,
-      "shared": false
+      "shared": false,
       "description": "Very nice apartment in center of the city.",
       "dailyRate": 43
     },
